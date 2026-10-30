@@ -1,0 +1,9 @@
+{
+  "server_url": "http://127.0.0.1:8080",
+  "model_name": "qwen2.5-0.5b-instruct",
+  "model_file": "qwen2.5-0.5b-instruct-q4_k_m.gguf",
+  "sound_enabled": true,
+  "request_timeout_seconds": 5.0,
+  "max_tokens": 120,
+  "cache_file": ".ghost_cache.json"
+}
